@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My レパートリー</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header>
+    <h1>My レパートリー</h1>
+    <div class="theme-toggle">
+      <button id="themeToggle">
+        <span id="themeIcon">🌞</span>
+      </button>
+    </div>
+  </header>
+  <main>
+    <div class="controls">
+      <div class="search-box">
+        <input type="text" id="searchInput" placeholder="楽曲名で検索">
+      </div>
+      
+      <div class="filter-group">
+        <label>ジャンル:</label>
+        <div class="filter-buttons" id="genreButtons">
+          <button class="filter-btn active" data-value="">全て</button>
+          <button class="filter-btn" data-value="邦ロック">邦ロック</button>
+          <button class="filter-btn" data-value="J-POP">J-POP</button>
+          <button class="filter-btn" data-value="バラード">バラード</button>
+          <button class="filter-btn" data-value="アニソン">アニソン</button>
+          <button class="filter-btn" data-value="ボカロ">ボカロ</button>
+          <button class="filter-btn" data-value="バラードロック">バラードロック</button>
+          <button class="filter-btn" data-value="歌謡曲">歌謡曲</button>
+          <button class="filter-btn" data-value="洋楽">洋楽</button>
+        </div>
+      </div>
+      
+      <div class="filter-group">
+        <label>雰囲気:</label>
+        <div class="filter-buttons" id="atmosphereButtons">
+          <button class="filter-btn active" data-value="">全て</button>
+          <button class="filter-btn" data-value="かっこいい">かっこいい</button>
+          <button class="filter-btn" data-value="明るい">明るい</button>
+          <button class="filter-btn" data-value="しんみり">しんみり</button>
+          <button class="filter-btn" data-value="悲しい">悲しい</button>
+        </div>
+      </div>
+      
+      <div class="filter-group">
+        <label>エモさ:</label>
+        <div class="filter-buttons" id="emotionalButtons">
+          <button class="filter-btn active" data-value="">全て</button>
+          <button class="filter-btn" data-value="true">エモい</button>
+          <button class="filter-btn" data-value="false">普通</button>
+        </div>
+      </div>
+      
+      <div class="stats">
+        表示中: <span id="displayCount">0</span> / <span id="totalCount">0</span> 曲
+      </div>
+    </div>
+    
+    <div class="table-container">
+      <table id="musicTable">
+        <thead>
+          <tr>
+            <th>楽曲名</th>
+            <th class="pc-only">ジャンル</th>
+            <th class="pc-only">雰囲気</th>
+            <th class="pc-only">エモさ</th>
+          </tr>
+        </thead>
+        <tbody id="musicTableBody">
+          <tr>
+            <td colspan="4" class="loading">データを読み込み中</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    
+    <!-- モーダル -->
+    <div id="modal" class="modal">
+      <div class="modal-content">
+        <span class="close">&times;</span>
+        <h2 id="modalTitle"></h2>
+        <div class="modal-info">
+          <p><strong>ジャンル:</strong> <span id="modalGenre"></span></p>
+          <p><strong>雰囲気:</strong> <span id="modalAtmosphere"></span></p>
+          <p><strong>エモさ:</strong> <span id="modalEmotional"></span></p>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <script src="assets/js/script.js"></script>
+</body>
+</html>
