@@ -1,0 +1,1228 @@
+{
+  "songs": [
+    {
+      "name": "僕たちは天使だった",
+      "genre": "J-POP",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "空も飛べるはず",
+      "genre": "J-POP",
+      "atmosphere": "しんみり",
+      "emotional": true
+    },
+    {
+      "name": "ロビンソン",
+      "genre": "J-POP",
+      "atmosphere": "しんみり",
+      "emotional": true
+    },
+    {
+      "name": "さぁ",
+      "genre": "J-POP",
+      "atmosphere": "かっこいい",
+      "emotional": true
+    },
+    {
+      "name": "瞳をとじて",
+      "genre": "バラード",
+      "atmosphere": "悲しい",
+      "emotional": false
+    },
+    {
+      "name": "栄光の架け橋",
+      "genre": "バラード",
+      "atmosphere": "悲しい",
+      "emotional": false
+    },
+    {
+      "name": "生きてこそ",
+      "genre": "バラード",
+      "atmosphere": "悲しい",
+      "emotional": false
+    },
+    {
+      "name": "宙船",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "Together（あきよしふみえ）",
+      "genre": "J-POP",
+      "atmosphere": "明るい",
+      "emotional": false
+    },
+    {
+      "name": "絶望ビリー",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "夢の続きへ",
+      "genre": "バラードロック",
+      "atmosphere": "しんみり",
+      "emotional": false
+    },
+    {
+      "name": "素直な虹",
+      "genre": "バラードロック",
+      "atmosphere": "しんみり",
+      "emotional": false
+    },
+    {
+      "name": "修羅",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "夢をかなえてドラえもん",
+      "genre": "J-POP",
+      "atmosphere": "明るい",
+      "emotional": false
+    },
+    {
+      "name": "覚醒ヒロイズムTHE HERO WITHOUT A NAME",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "かさなる影",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "CRAWL",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "激動",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "ライオン",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "モノクロのキス",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "ライメイ!ブルートレイン",
+      "genre": "J-POP",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "君は1000%",
+      "genre": "J-POP",
+      "atmosphere": "しんみり",
+      "emotional": false
+    },
+    {
+      "name": "100億のLove Story",
+      "genre": "バラードロック",
+      "atmosphere": "しんみり",
+      "emotional": false
+    },
+    {
+      "name": "Only Human",
+      "genre": "バラード",
+      "atmosphere": "悲しい",
+      "emotional": false
+    },
+    {
+      "name": "奏",
+      "genre": "バラード",
+      "atmosphere": "悲しい",
+      "emotional": false
+    },
+    {
+      "name": "紅蓮",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "虹（ゆず）",
+      "genre": "J-POP",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "あいうえおんがく",
+      "genre": "J-POP",
+      "atmosphere": "明るい",
+      "emotional": false
+    },
+    {
+      "name": "CHA-LA HEAD-CHA-LA",
+      "genre": "J-POP",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "足音 〜Be Strong",
+      "genre": "J-POP",
+      "atmosphere": "しんみり",
+      "emotional": false
+    },
+    {
+      "name": "ひまわりの約束",
+      "genre": "バラード",
+      "atmosphere": "しんみり",
+      "emotional": false
+    },
+    {
+      "name": "イヤな事だらけの世の中で",
+      "genre": "歌謡曲",
+      "atmosphere": "しんみり",
+      "emotional": false
+    },
+    {
+      "name": "バランスドール",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "Take your way",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "道（EXILE）",
+      "genre": "J-POP",
+      "atmosphere": "しんみり",
+      "emotional": false
+    },
+    {
+      "name": "鬼（クリープハイプ）",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": true
+    },
+    {
+      "name": "ホログラム",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "ゴールデンタイムラバー",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "Period",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "瞬間センチメンタル",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "レイン",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "JAP",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "SWORD SUMMT",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "Thunderclap",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "Kiseki（Nirgils）",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "ガブリールドロップキック",
+      "genre": "アニソン",
+      "atmosphere": "明るい",
+      "emotional": false
+    },
+    {
+      "name": "CORE PRIDE",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "IN MY WORLD",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "一滴の影響",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "Catch the Moment",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "Diver",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "GO",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "心臓を捧げよ",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "GATE Ⅱ 〜世界を超えて〜",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "My Soul, Your Bests!",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "一番の宝物",
+      "genre": "バラード",
+      "atmosphere": "悲しい",
+      "emotional": false
+    },
+    {
+      "name": "Bravely You",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "Hacking to the gate",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "only my railgun",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "sister's noise",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "oath sign",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "to the beginning",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "Courage",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "エクストラ・マジック・アワー",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "海色",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "God Only Knows",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "A Whole New World God Only Knows",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "キミの花",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "あ・え・い・う・え・お・あお!!",
+      "genre": "アニソン",
+      "atmosphere": "明るい",
+      "emotional": false
+    },
+    {
+      "name": "Anicca",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "青い栞",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": true
+    },
+    {
+      "name": "風ノ唄",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": true
+    },
+    {
+      "name": "時を刻む唄",
+      "genre": "アニソン",
+      "atmosphere": "しんみり",
+      "emotional": false
+    },
+    {
+      "name": "Little Busters!～TV animation ver.～",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "Alicemagic～TV animation ver.～",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "Boys be Smile",
+      "genre": "アニソン",
+      "atmosphere": "しんみり",
+      "emotional": false
+    },
+    {
+      "name": "遥か彼方（Rita）",
+      "genre": "バラード",
+      "atmosphere": "悲しい",
+      "emotional": false
+    },
+    {
+      "name": "Song for friends",
+      "genre": "バラード",
+      "atmosphere": "悲しい",
+      "emotional": false
+    },
+    {
+      "name": "Saya's Song",
+      "genre": "バラード",
+      "atmosphere": "悲しい",
+      "emotional": false
+    },
+    {
+      "name": "Determination Symphony",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "Light Delight",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "Opera of the wasteland",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "流星（藍井エイル）",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "ODD FUTURE",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "Neo-Aspect",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "God knows",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "unravel",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "anamnesis",
+      "genre": "バラード",
+      "atmosphere": "悲しい",
+      "emotional": false
+    },
+    {
+      "name": "This game",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "ロストワンの号哭",
+      "genre": "ボカロ",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "katharsis",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "アスノヨゾラ哨戒班",
+      "genre": "ボカロ",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "光と闇の彼方",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "Into the Sky",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "Ana",
+      "genre": "アニソン",
+      "atmosphere": "しんみり",
+      "emotional": false
+    },
+    {
+      "name": "小さなてのひら",
+      "genre": "バラード",
+      "atmosphere": "悲しい",
+      "emotional": false
+    },
+    {
+      "name": "千本桜",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "ロミオとシンデレラ",
+      "genre": "ボカロ",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "シャルル",
+      "genre": "ボカロ",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "カルマ",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "The Everlasting Guilty Crown",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "革命デュアリズム",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "イマジネーション",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "光るなら",
+      "genre": "J-POP",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "完全感覚Dreamer",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "打上花火",
+      "genre": "J-POP",
+      "atmosphere": "しんみり",
+      "emotional": true
+    },
+    {
+      "name": "体emotion",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "I Don't Want to Miss a Thing",
+      "genre": "洋楽",
+      "atmosphere": "悲しい",
+      "emotional": false
+    },
+    {
+      "name": "Hello（Adele）",
+      "genre": "洋楽",
+      "atmosphere": "しんみり",
+      "emotional": false
+    },
+    {
+      "name": "O2",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "ヒカレ",
+      "genre": "J-POP",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "月虹",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "Pretender",
+      "genre": "J-POP",
+      "atmosphere": "しんみり",
+      "emotional": true
+    },
+    {
+      "name": "We Are The World",
+      "genre": "洋楽",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "リライト",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "マリーゴールド",
+      "genre": "J-POP",
+      "atmosphere": "しんみり",
+      "emotional": false
+    },
+    {
+      "name": "Clock Strikes",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "Taking Off",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "皆無",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "Butter-Fly",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "FIRE BIRD",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "私の71％",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "Sign",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "オトモダチフィルム",
+      "genre": "J-POP",
+      "atmosphere": "明るい",
+      "emotional": false
+    },
+    {
+      "name": "劣等上等",
+      "genre": "ボカロ",
+      "atmosphere": "かっこいい",
+      "emotional": true
+    },
+    {
+      "name": "The Beginning",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "Wasted Nights",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "不可逆リプレイス",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "アイノシナリオ",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "Alchemy",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "ランプ",
+      "genre": "J-POP",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "aranami",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "SAVIOR OF SONG",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "Nevereverland",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "友 ～旅立ちの時～",
+      "genre": "J-POP",
+      "atmosphere": "しんみり",
+      "emotional": false
+    },
+    {
+      "name": "ドライフラワー",
+      "genre": "バラード",
+      "atmosphere": "悲しい",
+      "emotional": false
+    },
+    {
+      "name": "インフェルノ",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "セツナトリップ",
+      "genre": "ボカロ",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "天ノ弱",
+      "genre": "ボカロ",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "Ringing Bloom",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "青と夏",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "アイム・ア・ビリーバー",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "たしかなこと",
+      "genre": "J-POP",
+      "atmosphere": "しんみり",
+      "emotional": false
+    },
+    {
+      "name": "言葉にできない",
+      "genre": "J-POP",
+      "atmosphere": "しんみり",
+      "emotional": false
+    },
+    {
+      "name": "Your Reality",
+      "genre": "洋楽",
+      "atmosphere": "悲しい",
+      "emotional": false
+    },
+    {
+      "name": "東京流星群",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "らしさ",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "君に届け",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "ケイドイド",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "Heal the World",
+      "genre": "洋楽",
+      "atmosphere": "しんみり",
+      "emotional": false
+    },
+    {
+      "name": "Crow Song",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "All I Want for Christmas Is You",
+      "genre": "洋楽",
+      "atmosphere": "明るい",
+      "emotional": false
+    },
+    {
+      "name": "糸",
+      "genre": "バラード",
+      "atmosphere": "しんみり",
+      "emotional": false
+    },
+    {
+      "name": "Wherever you are",
+      "genre": "バラードロック",
+      "atmosphere": "しんみり",
+      "emotional": false
+    },
+    {
+      "name": "めざせポケモンマスター",
+      "genre": "J-POP",
+      "atmosphere": "明るい",
+      "emotional": false
+    },
+    {
+      "name": "君じゃなきゃダメみたい",
+      "genre": "J-POP",
+      "atmosphere": "明るい",
+      "emotional": false
+    },
+    {
+      "name": "イエスタデイ",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": true
+    },
+    {
+      "name": "点描の唄",
+      "genre": "邦ロック",
+      "atmosphere": "しんみり",
+      "emotional": true
+    },
+    {
+      "name": "僕のこと",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": true
+    },
+    {
+      "name": "Exit Music",
+      "genre": "洋楽",
+      "atmosphere": "しんみり",
+      "emotional": true
+    },
+    {
+      "name": "Cloud（Elias）",
+      "genre": "洋楽",
+      "atmosphere": "悲しい",
+      "emotional": false
+    },
+    {
+      "name": "高嶺の花子さん",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "怪獣の花唄",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "Hero（Mariah Carey）",
+      "genre": "洋楽",
+      "atmosphere": "しんみり",
+      "emotional": false
+    },
+    {
+      "name": "ALIVE",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "透明だった世界",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "Stairway Generation",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "サクラミツツキ",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "海の声",
+      "genre": "J-POP",
+      "atmosphere": "しんみり",
+      "emotional": false
+    },
+    {
+      "name": "ぎゅっと。",
+      "genre": "J-POP",
+      "atmosphere": "しんみり",
+      "emotional": true
+    },
+    {
+      "name": "クリスマスソング",
+      "genre": "邦ロック",
+      "atmosphere": "しんみり",
+      "emotional": false
+    },
+    {
+      "name": "Dragon Night",
+      "genre": "邦ロック",
+      "atmosphere": "明るい",
+      "emotional": false
+    },
+    {
+      "name": "What's up,people?!",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "人として",
+      "genre": "邦ロック",
+      "atmosphere": "しんみり",
+      "emotional": false
+    },
+    {
+      "name": "fantastic dreamer",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "StaRt",
+      "genre": "邦ロック",
+      "atmosphere": "明るい",
+      "emotional": false
+    },
+    {
+      "name": "heavenly blue",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "虹（菅田将暉）",
+      "genre": "J-POP",
+      "atmosphere": "しんみり",
+      "emotional": false
+    },
+    {
+      "name": "僕らの夏の夢",
+      "genre": "歌謡曲",
+      "atmosphere": "しんみり",
+      "emotional": false
+    },
+    {
+      "name": "風のトラベラー",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "One more time, One more chance",
+      "genre": "歌謡曲",
+      "atmosphere": "悲しい",
+      "emotional": false
+    },
+    {
+      "name": "ピノとアメリ",
+      "genre": "バラード",
+      "atmosphere": "しんみり",
+      "emotional": false
+    },
+    {
+      "name": "シルエット",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "風",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "distance",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "銀の龍の背に乗って",
+      "genre": "歌謡曲",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "カサブタ",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "Moshimo",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "創世のアクエリオン",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "空の青さを知る人よ",
+      "genre": "J-POP",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "葵",
+      "genre": "J-POP",
+      "atmosphere": "かっこいい",
+      "emotional": true
+    },
+    {
+      "name": "世界が終わるまでは",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "サークルゲーム",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": true
+    },
+    {
+      "name": "心音（しんおん）",
+      "genre": "歌謡曲",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "片っぽ - Acoustic Version",
+      "genre": "J-POP",
+      "atmosphere": "しんみり",
+      "emotional": true
+    },
+    {
+      "name": "フィナーレ。",
+      "genre": "J-POP",
+      "atmosphere": "しんみり",
+      "emotional": true
+    },
+    {
+      "name": "スパークル",
+      "genre": "邦ロック",
+      "atmosphere": "しんみり",
+      "emotional": true
+    },
+    {
+      "name": "シーグラス",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": true
+    },
+    {
+      "name": "いのちの名前",
+      "genre": "J-POP",
+      "atmosphere": "しんみり",
+      "emotional": false
+    },
+    {
+      "name": "痛覚",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "ギターと孤独と蒼い星",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "あのバンド",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "ワタシダケユウレイ",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": true
+    },
+    {
+      "name": "転がる岩、君に朝が降る",
+      "genre": "アニソン",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    }
+  ]
+}
