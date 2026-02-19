@@ -967,6 +967,12 @@
       "emotional": false
     },
     {
+      "name": "リクライム",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
       "name": "高嶺の花子さん",
       "genre": "邦ロック",
       "atmosphere": "かっこいい",
@@ -1223,6 +1229,24 @@
       "genre": "アニソン",
       "atmosphere": "かっこいい",
       "emotional": false
+    },
+    {
+      "name": "Ah Yeah!!",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "FLY HIGH!!",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": false
+    },
+    {
+      "name": "白日",
+      "genre": "邦ロック",
+      "atmosphere": "かっこいい",
+      "emotional": true
     }
   ]
 }
